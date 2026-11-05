@@ -1,0 +1,1 @@
+export { CybersecurityHeroSection } from "./CybersecurityHeroSection";
